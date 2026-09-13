@@ -1821,6 +1821,70 @@ const rawSongs = [
         ]
     },
     {
+        title: "The Lord, the Lord",
+        sections: [
+            {
+                name: "REFRAIN",
+                lyrics: "The Lord the Lord\nA God merciful and gracious\nSlow to anger\nAnd abounding in steadfast love\nAnd faithfulness\n[F1](3x)[/F1]"
+            },
+            {
+                name: "BRIDGE",
+                lyrics: "Slow to anger\nAnd abounding in steadfast love\nAnd faithfulness"
+            },
+            {
+                name: "END",
+                lyrics: "The Lord the Lord\nA God merciful and gracious\nSlow to anger\nAnd abounding in steadfast love\nAnd faithfulness\n[F1](3x)[/F1]"
+            }
+        ]
+    },
+    {
+        title: "A Joyful Thanks",
+        sections: [
+            {
+                name: "VERSE",
+                lyrics: "How good it is to give thanks\nAnd sing in Your honor, O Lord.\nWe come with joy,\nProclaiming Your words everywhere."
+            },
+            {
+                name: "REFRAIN",
+                lyrics: "That Your victory is firm\nAnd Your love is eternal, O Lord.\nWe proclaim the joy in our hearts,\nTrusting with all of our lives.\nTo You, O Lord, forever, Amen."
+            },
+            {
+                name: "VERSE",
+                lyrics: "How good it is to give thanks\nAnd sing in Your honor, O Lord.\nWe come with joy,\nProclaiming Your words everywhere."
+            },
+            {
+                name: "REFRAIN",
+                lyrics: "That Your victory is firm\nAnd Your love is eternal, O Lord.\nWe proclaim the joy in our hearts,\nTrusting with all of our lives.\nTo You, O Lord\n[F1](2x)[/F1]"
+            },
+            {
+                name: "END",
+                lyrics: "Forever, Amen\n[F1](3x)[/F1]"
+            }
+        ]
+    },
+    {
+        title: "Majesty",
+        sections: [
+            {
+                name: "VERSE",
+                lyrics: "Majesty, worship His majesty!\nUnto Jesus be glory, honor and praise!\nMajesty, kingdom, authority\nFlows from His throne\nUnto His own – His anthem raise!"
+            },
+            {
+                name: "END",
+                lyrics: "So exalt, lift up on high\nThe name of Jesus!\nMagnify, come, glorify\nChrist Jesus the King!\nMajesty, worship His majesty!\nJesus who died, now glorified\nKing of all kings!"
+            }
+        ]
+    },
+    {
+        title: "Lord You are more precious than silver",
+        sections: [
+            {
+                name: "VERSE",
+                lyrics: "Lord, You are more precious than silver.\nLord, You are more costly than gold.\nLord, You are more beautiful\nthan diamonds,\nAnd nothing I desire compares with You."
+            }
+        ]
+    },
+    {
         title: "How Great Is Our God",
         sections: [
             {
