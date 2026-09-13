@@ -468,7 +468,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "Hinei mah Tov",
+        title: "Hinei Mah Tov",
         sections: [
             { name: "VERSE", lyrics: "Hinei mah tov umah naim,\nShevet achim gam yachad. [F1](2x)[/F1]" },
             { name: "VERSE", lyrics: "Hinei mah tov, Hinei mah tov,\nLai lai lai lai lai lai lai lai lai lai … [F1](2x)[/F1]" },
@@ -572,7 +572,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "I Will Awake the Dawn",
+        title: "I Will Awake The Dawn",
         sections: [
             { name: "VERSE", lyrics: "Awake, O harp and lyre, \nAwake the morning,\nFirst light of day descends to lift my soul.\nYour presence greets me,\nStirs me to seek Thee,\nI come to do Your will." },
             { name: "REFRAIN", lyrics: "Open my lips, O Lord,\nMy mouth will sing Your praise,\nOpen my eyes to see Your hand this day." },
@@ -828,7 +828,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "My Inheritance the Lord",
+        title: "My Inheritance The Lord",
         sections: [
             { name: "VERSE", lyrics: "My inheritance the Lord my promised expectation\nHow excellent my reward in him\nIn him is my song my cup and firm foundation\nMy tower my all in all the Lord" },
             { name: "CHORUS", lyrics: "[F1](Men)[/F1] And now my God I search to see your face\n[F1](Women)[/F1] And rejoice in knowing you [F1](…rejoice in knowing you)[/F1]\n[F1](Men)[/F1] To find you in my eyes renewed by faith\n[F1](Women)[/F1] and adore forever more [F1](…adore forever more)[/F1]\n[F1](Men)[/F1] To taste of heaven in the center of my soul\n[F1](All)[/F1] I long to love you Lord" },
@@ -840,7 +840,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "My Mouth Shall Praise You with Joy",
+        title: "My Mouth Shall Praise You With Joy",
         sections: [
             { name: "VERSE", lyrics: "O God, You are my God,\nMy heart is longing to stand before You.\nMy soul is thirsting for You, Lord.\nWhen shall I come and freely adore You?" },
             { name: "REFRAIN", lyrics: "So I will bless You with all that I am.\nIn Your name I will lift up my hands.\nMy soul shall rise to Your banquet of life\nMy mouth shall praise You with joy\nMy mouth shall praise You with joy." },
@@ -851,7 +851,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "My Soul Finds Rest in God Alone",
+        title: "My Soul Finds Rest In God Alone",
         sections: [
             { name: "VERSE", lyrics: "My soul finds rest in God alone,\nMy salvation comes from Him.\nHe alone is my rock, \nHe alone is my salvation." },
             { name: "VERSE", lyrics: "My soul finds rest in God alone,\nAll my hope I place in Him.\nHe alone is my fortress, \nHe’s my deliverer, I’ll not be shaken." },
@@ -911,7 +911,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "Prayer of Saint Augustine",
+        title: "Prayer Of Saint Augustine",
         sections: [
             { name: "VERSE", lyrics: "O Beauty ancient, O Beauty so new,\nLate have I loved Thee and feebly yet do.\nThough You were with me\nI was not with You.\nThen You shone Your face,\nAnd I was blind no more." },
             { name: "REFRAIN", lyrics: "My heart searches restlessly,\nAnd finds no rest till it rests in Thee.\nO Seeker, You sought for me,\nYour love has found me\nI am taken by Thee" },
@@ -948,7 +948,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "Psalm 84 - O Lord, how we love your courts!",
+        title: "Psalm 84 - O Lord, How We Love Your Courts!",
         sections: [
             { name: "VERSE", lyrics: "O Lord, how we love Your courts\nThe place where Your glory abides.\nOur hearts and our flesh\nSing for joy to you, Lord\nTo You, the living God!" },
             { name: "CHORUS", lyrics: "Blessed are those, Lord,\nWhose strength is in Thee,\nWho find their life in Your praise.\nThey shall grow strong,\nGo from strength unto strength,\nUntil they see You face to face." },
@@ -959,7 +959,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "Psalm 95 - Come let us sing for joy to the Lord",
+        title: "Psalm 95 - Come Let Us Sing For Joy To The Lord",
         sections: [
             { name: "VERSE", lyrics: "Come, let us sing for joy to the Lord\nLet us shout to the rock of salvation!\nLet us come before Him giving thanks\nAnd extol Him with music and song!" },
             { name: "REFRAIN", lyrics: "Alleluia! Alleluia!\nHope in God, O my soul,\nIn Him your joy will be full." },
@@ -1059,7 +1059,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "Strong and Faithful",
+        title: "Strong And Faithful",
         sections: [
             { name: "VERSE", lyrics: "Our hearts know no fear\nStrong and faithful is our God.\nWe are His, precious and dear\nA rock unmoved, He is our God." },
             { name: "REFRAIN", lyrics: "For though a thousand may fall\nAnd mountains may crumble\nWe shall continue to stand.\nFor men who are mighty and tall\nMay falter and tremble\nWe shall possess the land.\nFor strong and faithful is our God.\nFor strong and faithful is our God." },
@@ -1068,7 +1068,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "Taste and See",
+        title: "Taste And See",
         sections: [
             { name: "REFRAIN", lyrics: "Taste and see\nHow good our God can be!\nO taste and see\nHow good our God can be!" },
             { name: "VERSE", lyrics: "I will bless the Lord at all times\nMy mouth will proclaim His praise\nMy soul makes its boast\nIn the Lord our God\nLet the humble hear and be glad." },
@@ -1120,7 +1120,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "The Light Shines in the Darkness",
+        title: "The Light Shines In The Darkness",
         sections: [
             { name: "VERSE", lyrics: "In the beginning God made the heavens and earth\nAnd darkness hung over the depths\nThen God said let there be light\nAnd there was and it was good" },
             { name: "CHORUS", lyrics: "So let light shine out of darkness\nFor Christ is the light of the world\nYes the light shines in the darkness\nAnd the darkness has not overcome" },
@@ -1178,7 +1178,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "There is Power",
+        title: "There Is Power",
         sections: [
             { name: "VERSE", lyrics: "There is power in the name\nin the name above all names\nIn the Son of God who came\nJesus Christ the name that saves" },
             { name: "VERSE", lyrics: "There is power in the word\npiercing hearts with news unheard\nTurning sinners from dead works\nraising dead men from the earth" },
@@ -1199,7 +1199,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "To Love You and To Make You Loved",
+        title: "To Love You And To Make You Loved",
         sections: [
             { name: "REFRAIN", lyrics: "To know You, O Lord,\nAnd to know Your love,\nTo love You and to make You loved!\n[F1](2x)[/F1]" },
             { name: "VERSE", lyrics: "Servants of the Lord\nOurs the upward call:\nTo lay down our lives\nAnd to give our all." },
@@ -1245,7 +1245,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "We Are Men of Jesus Christ",
+        title: "We Are Men Of Jesus Christ",
         sections: [
             { name: "REFRAIN", lyrics: "We are men of Jesus Christ\nWe’ve come to serve the Lord\nIn the strength of God.\nCome, O men of Jesus Christ\nCome, servants of the Lord\nCome and take your stand." },
             { name: "VERSE", lyrics: "The battle rages for the sons of men\nAnd He has made us the sons of God\nThat we may fight now in His battle plan\nFor He is building the kingdom of God\nRuling the nations with sword and rod\nHe is the Word of God!" },
@@ -1257,7 +1257,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "We Belong to God",
+        title: "We Belong To God",
         sections: [
             { name: "VERSE", lyrics: "None of us lives as his own\nAnd none of us dies as his own.\nFor while we live\nWe are responsible to God\nAnd when we die\nWe die as His servants." },
             { name: "REFRAIN", lyrics: "For both in life and death\nWe belong to God.\nThat is why Christ has died for us\nAnd come again.\nWe shall all appear before\nThe judgment seat of God" },
@@ -1340,7 +1340,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "Psalm 73 - Whom Have I in Heaven?",
+        title: "Psalm 73 - Whom Have I In Heaven?",
         sections: [
             { name: "REFRAIN", lyrics: "Whom have I in heaven but You, O Lord?\nAnd when I am with You\nThe earth delights me not.\nThough my heart and my flesh\nShould waste away,\nGod is my rock, my portion forever." },
             { name: "VERSE", lyrics: "Your law is my delight,\nI hasten to keep Your ways.\nI rise to bless You at night,\nBy day I sing Your praise.\nThough the wicked do not fear the Lord\nAnd refuse to keep His word,\nI shall love the Lord, my God." },
@@ -1389,7 +1389,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "You the fount",
+        title: "You The Fount",
         sections: [
             { name: "VERSE", lyrics: "You, the fount who quenches our thirsting,\nAll restless longings rest only in you.\nWell overflowing, the source of all goodness,\nNothing less for me than ev’rything for thee!" },
             { name: "REFRAIN", lyrics: "Claim me, Lord, for your own;\nCome and take me by fire.\nCome and capture my heart,\nThat my heart might be free!" },
@@ -1413,7 +1413,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "You will receive power",
+        title: "You Will Receive Power",
         sections: [
             { name: "VERSE", lyrics: "In the time after the suff’ring of the Lord\nHe showed us many ways\nHe was still alive\nAnd He told us not to leave Jerusalem\nUntil we are bold with power on High" },
             { name: "REFRAIN", lyrics: "You will receive power\nWhen the Holy Spirit falls upon You\nAnd you will be My witnesses\nTo the ends of all the earth" },
@@ -1422,7 +1422,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "We come to you",
+        title: "We Come To You",
         sections: [
             { name: "VERSE", lyrics: "We come to Mount Zion\nThe heavenly Jerusalem the city of our God\nTo thousands upon thousands of angels gathered round\nWe come to praise the Lord of Hosts" },
             { name: "CHORUS", lyrics: "We come to you to the living God\nYou who bought us at a price we come freely\nUnto Jesus Christ our Lord\nOnce rejected now become our cornerstone\nO Son of God we come to you" },
@@ -1434,7 +1434,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "The Lord of Hosts Is Here",
+        title: "The Lord Of Hosts Is Here",
         sections: [
             { name: "VERSE", lyrics: "The Lord of hosts is here\nOur God is before us\nAnd we have only to worship him\nAs he brings his Word" },
             { name: "CHORUS", lyrics: "Hallelujah\nSpeak O Lord\nDo not be silent\nWe wait for you\nHallelujah\nAnd we will lift our hands as you appear\nThe Lord of hosts is here" },
@@ -1443,7 +1443,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "I Saw the King",
+        title: "I Saw The King",
         sections: [
             { name: "VERSE", lyrics: "I saw the armies of angels arising\nThe banners of heaven appeared on the clouds\nI saw the King in his glory arriving\nThe cry goes up our salvation is near" },
             { name: "VERSE", lyrics: "I heard the tongues of the holy ones singing\nAnthems of cherubim thund’ring on high\nVoices on voices in harmony ringing\nAll God’s redeemed join the heavenly choir" },
@@ -1497,7 +1497,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "He is our shield",
+        title: "He Is Our Shield",
         sections: [
             {
                 name: "VERSE",
@@ -1526,7 +1526,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "Psalm 96 - Sing to the Lord a song of praise",
+        title: "Psalm 96 - Sing To The Lord A Song Of Praise",
         sections: [
             {
                 name: "VERSE",
@@ -1555,7 +1555,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "Psalm 100 - Sing joyfully unto the Lord!",
+        title: "Psalm 100 - Sing Joyfully Unto The Lord!",
         sections: [
             {
                 name: "REFRAIN",
@@ -1588,7 +1588,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "Psalm 115 - Not to us",
+        title: "Psalm 115 - Not To Us",
         sections: [
             {
                 name: "REFRAIN",
@@ -1621,7 +1621,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "We want to see Jesus",
+        title: "We Want To See Jesus",
         sections: [
             {
                 name: "VERSE",
@@ -1821,7 +1821,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "The Lord, the Lord",
+        title: "The Lord, The Lord",
         sections: [
             {
                 name: "REFRAIN",
@@ -1876,7 +1876,7 @@ const rawSongs = [
         ]
     },
     {
-        title: "Lord You are more precious than silver",
+        title: "Lord You Are More Precious Than Silver",
         sections: [
             {
                 name: "VERSE",
