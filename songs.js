@@ -1926,6 +1926,31 @@ const rawSongs = [
         ]
     },
     {
+        title: "The Love Of God Is Greater Far",
+        sections: [
+            {
+                name: "VERSE",
+                lyrics: "The love of God is greater far\nThan tongue or pen can ever tell\nIt goes beyond the highest star\nAnd reaches to the lowest hell\nThere's not in man so foul a stain\nCan turn God's love away\nNor soul so lost but that the cost\nGod's love would gladly pay"
+            },
+            {
+                name: "VERSE",
+                lyrics: "Could we with ink the ocean fill\nAnd were the skies of parchment made\nWere every stalk on earth a quill\nAnd every man a scribe by trade\nTo write the love of God above\nWould drain the ocean dry\nNor could the scroll contain the whole\nThough stretched from sky to sky"
+            },
+            {
+                name: "VERSE",
+                lyrics: "When once I walked the guilty path\nAlive to sin to goodness dead\nDeserving naught of God but wrath\nHe sent his only Son instead\nWhat cause had he this slave to free\nBy giving up his Son\nGod's love it was no other cause\nNor other hope I own"
+            },
+            {
+                name: "VERSE",
+                lyrics: "Where should I seek a clearer sign\nWhen I may read the love of God\nIn each dark streak each graven line\nInscribed in Jesus' flesh and blood\nMy soul has heard no better word\nThan what each wound there tells\nI've found more hope in one red drop\nThan in all comforts else"
+            },
+            {
+                name: "VERSE",
+                lyrics: "Why in despair then should I sink\nMy life despise ungratefully\nWhat folly this when I but think\nThat Jesus died for me for me\nThough slanders yet my soul beset\nWith these let Christ contend\nThe wretch's plea and comfort he\nThe sinner's surest friend"
+            }
+        ]
+    },
+    {
         title: "LD - Ordinary Time",
         sections: [
             {
