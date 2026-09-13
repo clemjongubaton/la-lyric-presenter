@@ -1951,6 +1951,39 @@ const rawSongs = [
         ]
     },
     {
+        title: "To Follow Him",
+        sections: [
+            {
+                name: "REFRAIN",
+                lyrics: "All praise to Him\nWho has redeemed our lives.\nAll thanks to Him\nWho claims our hearts.\nWe gladly follow in obedience to Him\nOur God and King\nWho names us for Himself."
+            },
+            {
+                name: "VERSE",
+                lyrics: "For we have tasted\nOf the mercies of the Lord\nAnd we have seen how good His life can be.\nHe has renewed His favor day after day\nAnd constantly He proves Himself our help."
+            },
+            {
+                name: "REFRAIN",
+                lyrics: "All praise to Him\nWho has redeemed our lives.\nAll thanks to Him\nWho claims our hearts.\nWe gladly follow in obedience to Him\nOur God and King\nWho names us for Himself."
+            },
+            {
+                name: "VERSE",
+                lyrics: "How blessed are the men\nWho hear the call of God!\nMore blessed still the men\nWho answer Him!\nHow great the joy they have\nIn serving Him alone\nWho make of Him\nTheir portion and their all."
+            },
+            {
+                name: "REFRAIN",
+                lyrics: "All praise to Him\nWho has redeemed our lives.\nAll thanks to Him\nWho claims our hearts.\nWe gladly follow in obedience to Him\nOur God and King\nWho names us for Himself."
+            },
+            {
+                name: "VERSE",
+                lyrics: "What shall we offer to the Lord,Our faithful King,\nWho always leads us in His victory?\nA life of praise and adoration\nWe will seek\nAnd by His Spirit please Him\nAs His sons."
+            },
+            {
+                name: "END",
+                lyrics: "All praise to Him\nWho has redeemed our lives.\nAll thanks to Him\nWho claims our hearts.\nWe gladly follow in obedience to Him\nOur God and King\nWho names us for Himself."
+            }
+        ]
+    },
+    {
         title: "LD - Ordinary Time",
         sections: [
             {
