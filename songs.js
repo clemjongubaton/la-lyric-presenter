@@ -1792,6 +1792,76 @@ const rawSongs = [
         ]
     },
     {
+        title: "I Offer My Life",
+        sections: [
+            {
+                name: "VERSE",
+                lyrics: "All that I am, all that I have,\nI lay them down before You, O Lord.\nAll my regrets, all my acclaim,\nThe joy and the pain\nI’m making them Yours."
+            },
+            {
+                name: "REFRAIN",
+                lyrics: "Lord, I offer my life to You\nEverything I’ve been through\nUse it for Your glory.\nLord, I offer my days to You\nLifting my praise to You\nAs a pleasing sacrifice.\nLord, I offer You my life."
+            },
+            {
+                name: "VERSE",
+                lyrics: "Things in the past, things yet unseen\nWishes and dreams\nThat are yet to come true.\nAll of my hopes, all of my plans\nMy heart and my hands are lifted to You."
+            },
+            {
+                name: "REFRAIN",
+                lyrics: "Lord, I offer my life to You\nEverything I’ve been through\nUse it for Your glory.\nLord, I offer my days to You\nLifting my praise to You\nAs a pleasing sacrifice.\nLord, I offer You my life."
+            },
+            {
+                name: "BRIDGE",
+                lyrics: "What can we give\nThat You have not given?\nAnd what do we have\nThat is not already Yours?\nAll we possess\nAre these lives we’re living\nAnd that’s what we give to You, Lord."
+            },
+            {
+                name: "END",
+                lyrics: "Lord, I offer my life to You\nEverything I’ve been through\nUse it for Your glory.\nLord, I offer my days to You\nLifting my praise to You\nAs a pleasing sacrifice.\nLord, I offer You my life."
+            },
+        ]
+    },
+    {
+        title: "How Great Is Our God",
+        sections: [
+            {
+                name: "VERSE",
+                lyrics: "The splendor of a King\nClothed in majesty\nLet all the earth rejoice\nAll the earth rejoice"
+            },
+            {
+                name: "VERSE",
+                lyrics: "He wraps Himself in light\nAnd darkness tries to hide\nIt trembles at His voice\nTrembles at His voice"
+            },
+            {
+                name: "CHORUS",
+                lyrics: "How great is our God, sing with me\nHow great is our God and all will see\nHow great, how great is our God"
+            },
+            {
+                name: "VERSE",
+                lyrics: "Age to age, He stands\nAnd time is in His hands\nBeginning and the end\nBeginning and the end"
+            },
+            {
+                name: "VERSE",
+                lyrics: "The Godhead Three in One\nFather, Spirit, Son\nLion and the Lamb\nLion and the Lamb"
+            },
+            {
+                name: "CHORUS",
+                lyrics: "How great is our God, sing with me\nHow great is our God and all will see\nHow great, how great is our God"
+            },
+            {
+                name: "VERSE",
+                lyrics: "Name above all names\nWorthy of our praise\nMy heart will sing\nHow great is our God"
+            },
+            {
+                name: "VERSE",
+                lyrics: "[F1](Men)[/F1]\nName above all names\nWorthy of our praise\nMy heart will sing\nHow great is our God\n\n[F1](Women)[/F1]\nHow great is our God, sing with me\nHow great is our God and all will see\nHow great, how great is our God"
+            },
+            {
+                name: "END",
+                lyrics: "How great is our God, sing with me\nHow great is our God and all will see\nHow great, how great is our God"
+            }
+        ]
+    },
+    {
         title: "LD - Ordinary Time",
         sections: [
             {
