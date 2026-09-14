@@ -1984,6 +1984,47 @@ const rawSongs = [
         ]
     },
     {
+        title: "The Voice Of One Calling In The Desert",
+        sections: [
+            {
+                name: "INTRO",
+                lyrics: "The voice of one calling in the desert\nPrepare the way of the Lord\nThe voice of one calling in the desert\nMake straight the path for the Lord"
+            },
+            {
+                name: "REFRAIN",
+                lyrics: "And every valley shall be lifted up\nEvery mountain and hill be made low\nAnd the crooked roads straight\nAnd the rough places plain\nAnd then all the world will see\nThe salvation of our God"
+            },
+            {
+                name: "REFRAIN",
+                lyrics: "This is the generation of those who seek the Lord\nThis is the generation of those who seek the Lord\nThis is the generation called to prepare His way"
+            },
+            {
+                name: "VERSE",
+                lyrics: "So with His armor, fit for the fight\nWith the sword of His spirit held tight\nIn the strength of His might\nPut God's enemies to flight\nAnd then all the world will see\nThe salvation of our God"
+            },
+            {
+                name: "REFRAIN",
+                lyrics: "This is the generation of those who seek the Lord\nThis is the generation of those who seek the Lord\nThis is the generation called to prepare His way"
+            },
+            {
+                name: "VERSE",
+                lyrics: "So rallied round His standard raised high\nMen of dust now raised to the sky\nSide by side, eye to eye\nHe is lord!, as one we'll cry\nAnd then all the world will see\nThe salvation of our God"
+            },
+            {
+                name: "BRIDGE",
+                lyrics: "Who is the King of Glory? Who is He?\nHe is the Lord, both strong and mighty\nWho is the King of Glory? Who is He?\nThe Lord Almighty, He is the King of Glory"
+            },
+            {
+                name: "REFRAIN",
+                lyrics: "This is the generation of those who seek the Lord\nThis is the generation of those who seek the Lord\nThis is the generation called to prepare His way"
+            },
+            {
+                name: "END",
+                lyrics: "And every valley shall be lifted up\nEvery mountain and hill be made low\nAnd the crooked roads straight\nAnd the rough places plain\nAnd then all the world will see\nThe salvation of our God [F1](4x)[/F1]"
+            }
+        ]
+    },
+    {
         title: "LD - Ordinary Time",
         sections: [
             {
