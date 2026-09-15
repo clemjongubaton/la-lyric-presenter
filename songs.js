@@ -1424,9 +1424,9 @@ const rawSongs = [
     {
         title: "We Come To You",
         sections: [
-            { name: "VERSE", lyrics: "We come to Mount Zion\nThe heavenly Jerusalem the city of our God\nTo thousands upon thousands of angels gathered round\nWe come to praise the Lord of Hosts" },
+            { name: "VERSE", lyrics: "We come to Mount Zion\nThe heavenly Jerusalem the city of our God\nTo thousands upon thousands\nof angels gathered round\nWe come to praise the Lord of Hosts" },
             { name: "CHORUS", lyrics: "We come to you to the living God\nYou who bought us at a price we come freely\nUnto Jesus Christ our Lord\nOnce rejected now become our cornerstone\nO Son of God we come to you" },
-            { name: "VERSE", lyrics: "We come to temple courts\nThe true and better dwelling place not made with human hands\nWhere our High Priest has entered once for all to give\nHis life his perfect holy blood" },
+            { name: "VERSE", lyrics: "We come to temple courts\nThe true and better dwelling place\nnot made with human hands\nWhere our High Priest has entered\nonce for all to give\nHis life his perfect holy blood" },
             { name: "CHORUS", lyrics: "We come to you to the living God\nYou who bought us at a price we come freely\nUnto Jesus Christ our Lord\nOnce rejected now become our cornerstone\nO Son of God we come to you" },
             { name: "VERSE", lyrics: "We come with nothing in our hands\nNo worthy sacrifice to bring yet offering our lives\nFrom every tribe and nation all corners of the earth\nWe come to serve the Lord of all" },
             { name: "CHORUS", lyrics: "We come to you to the living God\nYou who bought us at a price we come freely\nUnto Jesus Christ our Lord\nOnce rejected now become our cornerstone\nO Son of God ..." },
