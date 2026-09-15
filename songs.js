@@ -298,19 +298,19 @@ const rawSongs = [
         title: "For Such A Time As This",
         sections: [
             { name: "REFRAIN", lyrics: "[F1](Women)[/F1] For such a time as this\n[F1](Men)[/F1] We are called to give our all\n[F1](Women)[/F1] For such a time as this\n[F1](Men)[/F1] Let us leave all else behind" },
-            { name: "REFRAIN", lyrics: "[F1](All)[/F1] To follow Christ, to spread His light\nTo do not our will but His\nWe were born to live\nFor such a time as this." },
+            { name: "REFRAIN", lyrics: "To follow Christ, to spread His light\nTo do not our will but His\nWe were born to live\nFor such a time as this." },
             { name: "VERSE", lyrics: "Behold a new day is dawning\nA new time now is at hand\nBut still the call of our God\nRings out in our land." },
             { name: "VERSE", lyrics: "And now our race is beginning\nAnd by God’s grace may we run\nThe course which He sets before us\nIn Jesus His Son." },
-            { name: "VERSE", lyrics: "[F1](Men)[/F1]  If not now, when?\nIf not us, who?\nWhom is He equipping to stand?" },
-            { name: "VERSE", lyrics: "[F1](Women)[/F1] If not here, where?\nIf not we, who?\nWho will run our race till the end?" },
+            { name: "VERSE", lyrics: "[F1](Men)[/F1]\nIf not now, when?\nIf not us, who?\nWhom is He equipping to stand?" },
+            { name: "VERSE", lyrics: "[F1](Women)[/F1]\nIf not here, where?\nIf not we, who?\nWho will run our race till the end?" },
             { name: "REFRAIN", lyrics: "[F1](Women)[/F1] For such a time as this\n[F1](Men)[/F1] We are called to give our all\n[F1](Women)[/F1] For such a time as this\n[F1](Men)[/F1] Let us leave all else behind" },
-            { name: "REFRAIN", lyrics: "[F1](All)[/F1] To follow Christ, to spread His light\nTo do not our will but His\nWe were born to live\nFor such a time as this." },
+            { name: "REFRAIN", lyrics: "To follow Christ, to spread His light\nTo do not our will but His\nWe were born to live\nFor such a time as this." },
             { name: "VERSE", lyrics: "Behold a new day is dawning\nA new time now is at hand\nBut still the call of our God\nRings out in our land." },
             { name: "VERSE", lyrics: "And now our race is beginning\nAnd by God’s grace may we run\nThe course which He sets before us\nIn Jesus His Son." },
-            { name: "VERSE", lyrics: "[F1](Men)[/F1]  If not now, when?\nIf not us, who?\nWhom is He equipping to stand?" },
-            { name: "VERSE", lyrics: "[F1](Women)[/F1] If not here, where?\nIf not we, who?\nWho will run our race till the end?" },
+            { name: "VERSE", lyrics: "[F1](Men)[/F1]\nIf not now, when?\nIf not us, who?\nWhom is He equipping to stand?" },
+            { name: "VERSE", lyrics: "[F1](Women)[/F1]\nIf not here, where?\nIf not we, who?\nWho will run our race till the end?" },
             { name: "REFRAIN", lyrics: "[F1](Women)[/F1] For such a time as this\n[F1](Men)[/F1] We are called to give our all\n[F1](Women)[/F1] For such a time as this\n[F1](Men)[/F1] Let us leave all else behind" },
-            { name: "REFRAIN", lyrics: "[F1](All)[/F1] To follow Christ, to spread His light\nTo do not our will but His\nWe were born to live\nFor such a time as this." },
+            { name: "REFRAIN", lyrics: "To follow Christ, to spread His light\nTo do not our will but His\nWe were born to live\nFor such a time as this." },
             { name: "END", lyrics: "We were born to live\nFor such a time as this." }
 
         ]
