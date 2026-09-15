@@ -1428,7 +1428,7 @@ const rawSongs = [
             { name: "CHORUS", lyrics: "We come to you to the living God\nYou who bought us at a price we come freely\nUnto Jesus Christ our Lord\nOnce rejected now become our cornerstone\nO Son of God we come to you" },
             { name: "VERSE", lyrics: "We come to temple courts\nThe true and better dwelling place\nnot made with human hands\nWhere our High Priest has entered\nonce for all to give\nHis life his perfect holy blood" },
             { name: "CHORUS", lyrics: "We come to you to the living God\nYou who bought us at a price we come freely\nUnto Jesus Christ our Lord\nOnce rejected now become our cornerstone\nO Son of God we come to you" },
-            { name: "VERSE", lyrics: "We come with nothing in our hands\nNo worthy sacrifice to bring yet offering our lives\nFrom every tribe and nation all corners of the earth\nWe come to serve the Lord of all" },
+            { name: "VERSE", lyrics: "We come with nothing in our hands\nNo worthy sacrifice to bring\nyet offering our lives\nFrom every tribe and nation\nall corners of the earth\nWe come to serve the Lord of all" },
             { name: "CHORUS", lyrics: "We come to you to the living God\nYou who bought us at a price we come freely\nUnto Jesus Christ our Lord\nOnce rejected now become our cornerstone\nO Son of God ..." },
             { name: "END", lyrics: "We come to you to the living God\nYou who bought us at a price we come freely\nUnto Jesus Christ our Lord\nOnce rejected now become our cornerstone\nO Son of God we come to you\nO Son of God we come to you" }
         ]
